@@ -4,7 +4,7 @@ import org.junit.Test;
 
 public class testGit {
 
-    public void sayHello(){
+    private void sayHello(){
 
         System.out.print("hello world");
 
