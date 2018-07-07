@@ -12,6 +12,8 @@ public class testGit {
         System.out.print("你镇好");
 
         System.out.print("congratulation");
+
+        System.out.print("what is your name");
     }
 
     @Test
