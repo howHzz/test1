@@ -14,6 +14,8 @@ public class testGit {
         System.out.print("congratulation");
 
         System.out.print("what is your name");
+
+        System.out.print("how old are you");
     }
 
     @Test
